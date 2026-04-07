@@ -2,6 +2,7 @@
     {
         "name": "Default",
         "author": "YuiNijika",
+        "description": "The default theme for Anon CMS.",
         "screenshot": "screenshot.jpg",
         "url": {
             "github": "https://github.com/YuiNijika/Anon",
@@ -11,6 +12,7 @@
     {
         "name": "WeChat",
         "author": "YuiNijika",
+        "description": "微信朋友圈风格主题",
         "screenshot": "screenshot.jpg",
         "url": {
             "github": "https://github.com/YuiNijika/Anon-Theme-WeChat",
