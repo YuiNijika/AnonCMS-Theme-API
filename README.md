@@ -10,6 +10,7 @@ The list of themes is stored in a JSON file.
 {
     "name": "theme name",
     "author": "you name",
+    "description": "theme description",
     "screenshot": "image url or repositories path",
     // "screenshot": "screenshot.jpg", Repositories Path + screenshot
     // "screenshot": "https://i0.hdslb.com/bfs/archive/4fd3f7028454e6019fcc6f88606cab6e0bb2f306.jpg",
