@@ -2,6 +2,7 @@
     {
         "name": "Default",
         "author": "YuiNijika",
+        "screenshot": "screenshot.jpg",
         "url": {
             "github": "https://github.com/YuiNijika/Anon",
             "gitee": null
@@ -10,6 +11,7 @@
     {
         "name": "WeChat",
         "author": "YuiNijika",
+        "screenshot": "screenshot.jpg",
         "url": {
             "github": "https://github.com/YuiNijika/Anon-Theme-WeChat",
             "gitee": null
