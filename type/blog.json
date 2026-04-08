@@ -1,4 +1,6 @@
 [
+    "code": 200,
+    "message": "获取博客主题列表成功",
     {
         "name": "Default",
         "author": "YuiNijika",
