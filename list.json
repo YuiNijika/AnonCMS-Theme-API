@@ -1,8 +1,8 @@
-[
+{
     "code": 200,
     "message": "获取主题类型列表成功",
     "repository": "https://github.com/YuiNijika/AnonCMS-Theme-API/blob/main/type/",
-    {
+    "data": {
         "blog": "blog.json"
     }
-]
+}
