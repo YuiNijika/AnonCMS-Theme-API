@@ -1,24 +1,26 @@
-[
+{
     "code": 200,
     "message": "获取博客主题列表成功",
-    {
-        "name": "Default",
-        "author": "YuiNijika",
-        "description": "The default theme for Anon CMS.",
-        "screenshot": "screenshot.jpg",
-        "url": {
-            "github": "https://github.com/YuiNijika/Anon",
-            "gitee": null
+    "data": [
+        {
+            "name": "Default",
+            "author": "YuiNijika",
+            "description": "The default theme for Anon CMS.",
+            "screenshot": "screenshot.jpg",
+            "url": {
+                "github": "https://github.com/YuiNijika/Anon",
+                "gitee": null
+            }
+        },
+        {
+            "name": "Note",
+            "author": "YuiNijika",
+            "description": "The second default theme of Anon CMS.",
+            "screenshot": "screenshot.jpg",
+            "url": {
+                "github": "https://github.com/YuiNijika/AnonCMS-Theme-Note",
+                "gitee": null
+            }
         }
-    },
-    {
-        "name": "Note",
-        "author": "YuiNijika",
-        "description": "The second default theme of Anon CMS.",
-        "screenshot": "screenshot.jpg",
-        "url": {
-            "github": "https://github.com/YuiNijika/AnonCMS-Theme-Note",
-            "gitee": null
-        }
-    }
-]
+    ]
+}
