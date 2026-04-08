@@ -10,12 +10,12 @@
         }
     },
     {
-        "name": "WeChat",
+        "name": "Note",
         "author": "YuiNijika",
-        "description": "微信朋友圈风格主题",
+        "description": "The second default theme of Anon CMS.",
         "screenshot": "screenshot.jpg",
         "url": {
-            "github": "https://github.com/YuiNijika/Anon-Theme-WeChat",
+            "github": "https://github.com/YuiNijika/AnonCMS-Theme-Note",
             "gitee": null
         }
     }
