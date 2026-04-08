@@ -1,22 +1,8 @@
 [
+    "code": 200,
+    "message": "获取主题类型列表成功",
+    "repository": "https://github.com/YuiNijika/AnonCMS-Theme-API/blob/main/type/",
     {
-        "name": "Default",
-        "author": "YuiNijika",
-        "description": "The default theme for Anon CMS.",
-        "screenshot": "screenshot.jpg",
-        "url": {
-            "github": "https://github.com/YuiNijika/Anon",
-            "gitee": null
-        }
-    },
-    {
-        "name": "Note",
-        "author": "YuiNijika",
-        "description": "The second default theme of Anon CMS.",
-        "screenshot": "screenshot.jpg",
-        "url": {
-            "github": "https://github.com/YuiNijika/AnonCMS-Theme-Note",
-            "gitee": null
-        }
+        "blog": "blog.json"
     }
 ]
